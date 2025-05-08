@@ -2,15 +2,6 @@ using UnityEngine;
 
 public class MetaUnit : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public MetaClass metaClass;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
